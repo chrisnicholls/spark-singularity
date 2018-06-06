@@ -5,7 +5,7 @@ Use [Spark](https://spark.apache.org) on Heroku in a single dyno. Experiment ine
 
 Production-quality Spark clusters may be deployed into [Private Spaces](https://devcenter.heroku.com/articles/dyno-runtime#private-spaces-runtime) using [spark-in-space](https://github.com/heroku/spark-in-space).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/spark-singularity)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cnicholls/spark-singularity)
 
 This buildpack provides the following three processes, children of the main web process:
   1. Nginx proxy for
