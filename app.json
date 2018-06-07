@@ -45,7 +45,7 @@
       "url": "heroku/scala"
     },
     {
-      "url": "https://github.com/cnicholls/spark-in-space.git"
+      "url": "https://github.com/chrisnicholls/spark-in-space.git"
     },
     {
       "url": "https://github.com/dpiddy/heroku-buildpack-runit.git"
